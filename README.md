@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lukaszsolarz
 - 👀 I’m interested in Testing
 - 🌱 I’m currently learning automatic testing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...lukaszsolarz@icloud.com
 
 <!---
